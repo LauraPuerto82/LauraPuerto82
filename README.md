@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Laura</h1>
-<h3 align="center">A passionate Certified Unity Game Developer <br><br> <a href="https://www.credly.com/badges/4c39f8fc-8ae0-4baa-ae28-0ae7df716b76" rel="nofollow"><img src="https://camo.githubusercontent.com/33a1cb6aac79b99ad386f94e2df94ef9f148faa4cb23fc6d3cbf8348899eca0f/68747470733a2f2f6365727469706f72742e70656172736f6e7675652e636f6d2f43657274696669636174696f6e732f556e6974792f4365727469666965642d557365722f42616467696e672f6365727469666965642d757365722e706e67" alt="CertificationBadge" style="height: 65px; max-width: 100%;" align="center" data-canonical-src="https://certiport.pearsonvue.com/Certifications/Unity/Certified-User/Badging/certified-user.png"></a> </h3>
+<h3 align="center">A passionate Certified Unity Game Developer <br><br> <a href="https://www.credly.com/badges/4c39f8fc-8ae0-4baa-ae28-0ae7df716b76" rel="nofollow">
+<img src="https://certiport.pearsonvue.com/Certifications/Unity/Certified-User/Badging/certified-user.png" alt="CertificationBadge" style="height: 65px; max-width: 100%;" align="center" data-canonical-src="https://certiport.pearsonvue.com/Certifications/Unity/Certified-User/Badging/certified-user.png"></a> </h3>
 
 - 🔭 I’m currently working on **Master Devs**
 

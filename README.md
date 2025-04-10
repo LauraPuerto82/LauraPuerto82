@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="github-header-laura.png" alt="Header de Laura Puerto - IA" width="600" style="border-radius: 12px;" />
+</p>
+
 # 👋 Hi, I'm Laura
 
 🎯 I'm a software developer transitioning from web and game development to **Machine Learning and Deep Learning**. Passionate about learning and always curious about how things work behind the scenes.

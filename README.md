@@ -12,6 +12,9 @@
 - 🧠 Building a solid foundation in Python, NumPy, Pandas, Scikit-learn, and TensorFlow.
 - 💻 Rewriting academic notebooks using **modern tools** and real datasets.
 
+📁 I'm also publishing the projects from the IBM honors track here:  
+🔗 [ibm-ml-honors-projects](https://github.com/LauraPuerto82/ibm-ml-honors-projects)
+
 ## 📌 Upcoming Projects
 - 🏠 *Deep Learning for Real Estate Price Prediction*  
 - 🖼️ *Image Classification with CNNs*  

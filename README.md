@@ -15,14 +15,15 @@
 📁 I'm also publishing the projects from the IBM honors track here:  
 🔗 [ibm-ml-honors-projects](https://github.com/LauraPuerto82/ibm-ml-honors-projects)
 
-📁 You can explore all my AI mini-projects here:  
-🔗 [mini-ia-projects](https://github.com/LauraPuerto82/mini-ia-projects-)
+## 📌 Projects
 
-## 📌 Upcoming Projects
-- 🏠 *Deep Learning for Real Estate Price Prediction*  
-- 🖼️ *Image Classification with CNNs*  
-- 🗣️ *Sentiment Analysis with NLP*  
-- ☁️ *Deploying ML models with MLOps on AWS*
+- 🏠 *Deep Learning for Real Estate Price Prediction* → [See it on GitHub](https://github.com/LauraPuerto82/mini-ia-projects-/tree/master/01.-%20Deep%20Learning%20for%20Real%20Estate%20Price%20Prediction)
+- 🖼️ *Image Classification with CNNs* (coming soon)
+- 🗣️ *Sentiment Analysis with NLP* (coming soon)
+- ☁️ *Deploying ML models with MLOps on AWS* (coming soon)
+
+📁 Explore all my AI mini-projects here:  
+🔗 [mini-ia-projects](https://github.com/LauraPuerto82/mini-ia-projects-)
 
 ## 💡 Background
 Previously certified in Unity game development and experienced in building modern web applications. This background helps me bring creativity and structure into the world of AI.

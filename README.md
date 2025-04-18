@@ -15,6 +15,9 @@
 📁 I'm also publishing the projects from the IBM honors track here:  
 🔗 [ibm-ml-honors-projects](https://github.com/LauraPuerto82/ibm-ml-honors-projects)
 
+📁 You can explore all my AI mini-projects here:  
+🔗 [mini-ia-projects](https://github.com/LauraPuerto82/mini-ia-projects-)
+
 ## 📌 Upcoming Projects
 - 🏠 *Deep Learning for Real Estate Price Prediction*  
 - 🖼️ *Image Classification with CNNs*  
